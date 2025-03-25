@@ -1,0 +1,14 @@
+<person>
+  <name>Natasha</name>
+  <age>24</age>
+  <isTrainee>true</isTrainee>
+  <topicsCovered>
+    <topic>Markdown</topic>
+    <topic>GitHub</topic>
+    <topic>VS Code</topic>
+  </topicsCovered>
+  <contact>
+    <email>naidomon@spartaglobal.com</email>
+    <phone>07123456789</phone>
+  </contact>
+</person>

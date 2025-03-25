@@ -1,0 +1,10 @@
+name: Natasha
+age: 24
+isTrainee: true
+topicsCovered:
+  - Markdown
+  - GitHub
+  - VS Code
+contact:
+  email: naidomon@spartaglobal.com
+  phone: "07123456789"
